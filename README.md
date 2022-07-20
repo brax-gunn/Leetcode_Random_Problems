@@ -12,4 +12,8 @@
 | 6     | Generate Parentheses                     | **MEDIUM** | https://leetcode.com/problems/generate-parentheses/ |
 | 7     | Combinations                             | **MEDIUM** | https://leetcode.com/problems/combinations/ |
 | 8     | Path with Maximum Gold                   | **MEDIUM** | https://leetcode.com/problems/path-with-maximum-gold/ |
+| 9     | Subsets II                               | **MEDIUM** | https://leetcode.com/problems/subsets-ii/ |
+| 10    | Beautiful Arrangement                    | **MEDIUM** | https://leetcode.com/problems/beautiful-arrangement/ |
+| 11    | Find Unique Binary String                | **MEDIUM** | https://leetcode.com/problems/find-unique-binary-string/ |
+| 12    | Fair Distribution of Cookies             | **MEDIUM** | https://leetcode.com/problems/fair-distribution-of-cookies/ |
 
