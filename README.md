@@ -16,4 +16,7 @@
 | 10    | Beautiful Arrangement                    | **MEDIUM** | https://leetcode.com/problems/beautiful-arrangement/ |
 | 11    | Find Unique Binary String                | **MEDIUM** | https://leetcode.com/problems/find-unique-binary-string/ |
 | 12    | Fair Distribution of Cookies             | **MEDIUM** | https://leetcode.com/problems/fair-distribution-of-cookies/ |
+| 13    | Palindrome Partitioning                  | **MEDIUM** | https://leetcode.com/problems/palindrome-partitioning/ |
+| 14    | Maximum Compatibility Score Sum          | **MEDIUM** | https://leetcode.com/problems/maximum-compatibility-score-sum/ |
+| 15    | Path Sum II                              | **MEDIUM** | https://leetcode.com/problems/path-sum-ii/ |
 
