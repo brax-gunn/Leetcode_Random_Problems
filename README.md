@@ -19,4 +19,8 @@
 | 13    | Palindrome Partitioning                  | **MEDIUM** | https://leetcode.com/problems/palindrome-partitioning/ |
 | 14    | Maximum Compatibility Score Sum          | **MEDIUM** | https://leetcode.com/problems/maximum-compatibility-score-sum/ |
 | 15    | Path Sum II                              | **MEDIUM** | https://leetcode.com/problems/path-sum-ii/ |
+| 16    | Ambiguous Coordinates                    | **MEDIUM** | https://leetcode.com/problems/ambiguous-coordinates/ |
+| 17    | Gray Code                                | **MEDIUM** | https://leetcode.com/problems/gray-code/ |
+| 18    | Circular Permutation in Binary Representation | **MEDIUM** | https://leetcode.com/problems/circular-permutation-in-binary-representation/ |
+| 19    | Binary Watch                             |  **EASY**  | https://leetcode.com/problems/binary-watch/ |
 
