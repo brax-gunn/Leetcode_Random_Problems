@@ -23,4 +23,5 @@
 | 17    | Gray Code                                | **MEDIUM** | https://leetcode.com/problems/gray-code/ |
 | 18    | Circular Permutation in Binary Representation | **MEDIUM** | https://leetcode.com/problems/circular-permutation-in-binary-representation/ |
 | 19    | Binary Watch                             |  **EASY**  | https://leetcode.com/problems/binary-watch/ |
+| 20    | Shopping Offers                          | **MEDIUM** | https://leetcode.com/problems/shopping-offers/ |
 
