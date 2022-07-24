@@ -24,4 +24,8 @@
 | 18    | Circular Permutation in Binary Representation | **MEDIUM** | https://leetcode.com/problems/circular-permutation-in-binary-representation/ |
 | 19    | Binary Watch                             |  **EASY**  | https://leetcode.com/problems/binary-watch/ |
 | 20    | Shopping Offers                          | **MEDIUM** | https://leetcode.com/problems/shopping-offers/ |
+| 21    | Count Number of Maximum Bitwise-OR Subsets | **MEDIUM** | https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/ |
+| 22    | Permutations                             | **MEDIUM** | https://leetcode.com/problems/permutations/ |
+| 23    | Split a String Into the Max Number of Unique Substrings | **MEDIUM** | https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/ |
+| 24    | Combination Sum II                       | **MEDIUM** | https://leetcode.com/problems/combination-sum-ii/ |
 
