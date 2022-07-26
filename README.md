@@ -28,4 +28,7 @@
 | 22    | Permutations                             | **MEDIUM** | https://leetcode.com/problems/permutations/ |
 | 23    | Split a String Into the Max Number of Unique Substrings | **MEDIUM** | https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/ |
 | 24    | Combination Sum II                       | **MEDIUM** | https://leetcode.com/problems/combination-sum-ii/ |
+| 25    | Maximum Product of the Length of Two Palindromic Subsequences | **MEDIUM** | https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/ |
+| 26    | Unique Paths III                         |  **HARD**  | https://leetcode.com/problems/unique-paths-iii/ |
+| 27    | Maximum Score Words Formed by Letters    |  **HARD**  | https://leetcode.com/problems/maximum-score-words-formed-by-letters/ |
 
